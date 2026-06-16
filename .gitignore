@@ -1,0 +1,13 @@
+node_modules
+.next
+.env*.local
+*.db
+*.db-journal
+dist
+coverage
+.vercel
+.font-cache
+.next-dev*.log
+.next-direct*.log
+
+.env
