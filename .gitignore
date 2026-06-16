@@ -11,3 +11,5 @@ coverage
 .next-direct*.log
 
 .env
+.vercel
+.env*
